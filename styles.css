@@ -1,3 +1,10 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+    background-color: black;
+    color: rgb(11, 138, 0);
+    text-align: center;
 }
