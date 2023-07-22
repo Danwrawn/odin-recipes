@@ -7,4 +7,12 @@ h2 {
     background-color: black;
     color: rgb(11, 138, 0);
     text-align: center;
+    padding: 6px;
+}
+
+p,
+li {
+    background-color: lightgreen;
+    padding: 8px;
+    margin: 8px;
 }
